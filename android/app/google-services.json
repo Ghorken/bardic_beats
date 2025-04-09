@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946865343165",
+    "project_id": "bardic-beats-58158",
+    "storage_bucket": "bardic-beats-58158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946865343165:android:4cefb9055ede5c2b0545d4",
+        "android_client_info": {
+          "package_name": "rpg.in_dice.bardic_beats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC3wt6VN4ZruQThVn0_EJeLxn8DYCIxm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

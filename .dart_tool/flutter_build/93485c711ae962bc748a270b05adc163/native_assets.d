@@ -1,0 +1,1 @@
+ C:\\InDice\\bardic_beats\\.dart_tool\\flutter_build\\93485c711ae962bc748a270b05adc163\\native_assets.yaml: 
